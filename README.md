@@ -26,11 +26,19 @@
 <h3>System Calls in Operating System [Theory + Example + Hands-on Terminal]</h3>
 <a href="https://youtu.be/lo8Z61qCDqQ?feature=shared"><img src="https://github.com/user-attachments/assets/1cd2177a-c858-451e-aa1a-b348674dfaac"/></a>
 <br/>
-<h3><a href="https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view">Notes</a></h3>
+<h3>Notes</h3>
+<img src="https://github.com/user-attachments/assets/52a2a840-94ee-44e6-aa99-f167539bf3c6"/>
+<img src="https://github.com/user-attachments/assets/ccec4632-8897-4113-824c-46a0715aea8d"/>
+
 <hr/>
 
 <h3>How Operating System Boots up?</h3>
-<a href="https://youtu.be/nAr2sLiLDWw?feature=shared"><img src=""/></a>
+<a href="https://youtu.be/nAr2sLiLDWw?feature=shared"><img src="https://github.com/user-attachments/assets/ac54deb6-2d68-4f97-b6cd-651c2ee3d19c"/></a>
 <br/>
-<h3><a href="https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view">Notes</a></h3>
+<h3>Notes</h3><br/>
+<img src="https://github.com/user-attachments/assets/16c07233-da46-4f52-be5b-b7c1417fba7c"/>
 <hr/>
+
+<h3>What is Booting? "How Computer Boots Up" </h3>
+<a href="https://youtu.be/3KzQJLbB4DU?feature=shared"><img src="https://github.com/user-attachments/assets/6d315a19-c5ce-48da-8774-01d4a6aa9bec"/></a>
+<br/>
