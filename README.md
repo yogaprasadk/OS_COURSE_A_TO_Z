@@ -23,14 +23,14 @@
 <hr/>
 
 
-<h3>What is an Operating System ?</h3>
-<a href="https://youtu.be/a1l4MceYHaQ?feature=shared"><img src="https://github.com/user-attachments/assets/1ca6a911-b766-4030-8a09-57a558e33d22"/></a>
+<h3>System Calls in Operating System [Theory + Example + Hands-on Terminal]</h3>
+<a href="https://youtu.be/lo8Z61qCDqQ?feature=shared"><img src="https://github.com/user-attachments/assets/1cd2177a-c858-451e-aa1a-b348674dfaac"/></a>
 <br/>
-<h3><a href="https://drive.google.com/file/d/14CJ3RppKwOXG0u6EBRsRM6opM0I9eCeV/view">Notes</a></h3>
+<h3><a href="https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view">Notes</a></h3>
 <hr/>
 
-<h3>What is an Operating System ?</h3>
-<a href="https://youtu.be/a1l4MceYHaQ?feature=shared"><img src="https://github.com/user-attachments/assets/1ca6a911-b766-4030-8a09-57a558e33d22"/></a>
+<h3>How Operating System Boots up?</h3>
+<a href="https://youtu.be/nAr2sLiLDWw?feature=shared"><img src=""/></a>
 <br/>
-<h3><a href="https://drive.google.com/file/d/14CJ3RppKwOXG0u6EBRsRM6opM0I9eCeV/view">Notes</a></h3>
+<h3><a href="https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view">Notes</a></h3>
 <hr/>
