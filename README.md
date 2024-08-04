@@ -42,3 +42,12 @@
 <h3>What is Booting? "How Computer Boots Up" </h3>
 <a href="https://youtu.be/3KzQJLbB4DU?feature=shared"><img src="https://github.com/user-attachments/assets/6d315a19-c5ce-48da-8774-01d4a6aa9bec"/></a>
 <br/>
+
+<h3>32 bit vs 64bit register</h3>
+<a href="https://youtu.be/cE6WoaUnpAM?si=gvZ3Yp2CM3bCkLmS"><img src="https://github.com/user-attachments/assets/41c70379-b56e-45e4-8639-60b68ca3c8c5"></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1ETaipekcozNlVV66fAi9il0i_7upqmOZ/view">Notes</h3>
+<br/>
+
+<h3></h3>
+<a hrer="">![image](https://github.com/user-attachments/assets/c20b93a2-9a8d-4d86-8c46-648dd15435aa)</a>
