@@ -28,9 +28,6 @@
 <h3><a href="https://drive.google.com/file/d/1a9rTJf3X_sgpjjyStglzKc9bfapAv4B-/view">Notes</a></h3>
 <hr/>
 
-
-
-
 <h3>System Calls in Operating System [Theory + Example + Hands-on Terminal]</h3>
 <a href="https://youtu.be/lo8Z61qCDqQ?feature=shared"><img src="https://github.com/user-attachments/assets/1cd2177a-c858-451e-aa1a-b348674dfaac"/></a>
 <br/>
@@ -74,3 +71,10 @@
 <br/>
 <h3><a href="https://drive.google.com/file/d/1SujB_Zn9JiSZf2rvfpdTzCndLUZP4O9G/view">Notes</h3>
 <br/>
+
+<h3>Context Switching in OS | Medium Term Scheduler | Orphan/Zombie Process</h3>
+<a href="https://youtu.be/arlIBez-W_I?si=Sxm4E9P1SkgCpYV8"><img src="https://github.com/user-attachments/assets/d8ddf3a1-452a-4a10-92c1-dfae3f612a10"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1a9rTJf3X_sgpjjyStglzKc9bfapAv4B-/view">Notes</a></h3>
+<hr/>
+
