@@ -32,15 +32,15 @@
 <a href="https://youtu.be/lo8Z61qCDqQ?feature=shared"><img src="https://github.com/user-attachments/assets/1cd2177a-c858-451e-aa1a-b348674dfaac"/></a>
 <br/>
 <h3>Notes</h3>
-<img src="https://github.com/user-attachments/assets/52a2a840-94ee-44e6-aa99-f167539bf3c6"/>
-<img src="https://github.com/user-attachments/assets/ccec4632-8897-4113-824c-46a0715aea8d"/>
+<img src="https://github.com/user-attachments/assets/52a2a840-94ee-44e6-aa99-f167539bf3c6" width=500/>
+<img src="https://github.com/user-attachments/assets/ccec4632-8897-4113-824c-46a0715aea8d" width=500/>
 <hr/>
 
 <h3>How Operating System Boots up?</h3>
 <a href="https://youtu.be/nAr2sLiLDWw?feature=shared"><img src="https://github.com/user-attachments/assets/ac54deb6-2d68-4f97-b6cd-651c2ee3d19c"/></a>
 <br/>
 <h3>Notes</h3><br/>
-<img src="https://github.com/user-attachments/assets/16c07233-da46-4f52-be5b-b7c1417fba7c"/>
+<img src="https://github.com/user-attachments/assets/16c07233-da46-4f52-be5b-b7c1417fba7c" width=500>
 <hr/>
 
 <h3>What is Booting? "How Computer Boots Up" </h3>
@@ -80,5 +80,5 @@
 <h3>What is Convoy Effect | FCFS CPU Scheduling Algorithm</h3>
 <a href="https://youtu.be/lLmqbQnLM4A?si=gpTvi6dI9BcXxP0M"><img src="https://github.com/user-attachments/assets/d1911df8-4220-40ce-992b-1b8f5fe2040b"/></a>
 <br/>
-<h3><a href=""></a></h3>
-
+<h3>Notes</h3>
+<img src="https://github.com/user-attachments/assets/db34ea90-cd0c-453d-84cf-836dbb8c0852" width=2000/>
