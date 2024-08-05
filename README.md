@@ -49,5 +49,20 @@
 <h3><a href="https://drive.google.com/file/d/1ETaipekcozNlVV66fAi9il0i_7upqmOZ/view">Notes</h3>
 <br/>
 
-<h3></h3>
-<a hrer="">![image](https://github.com/user-attachments/assets/c20b93a2-9a8d-4d86-8c46-648dd15435aa)</a>
+<h3>Comparison between different STORAGES used in Computer</h3>
+<a hrer="https://youtu.be/KFIStTj2DFw?si=e72N2SN0RO3Krhpk"><img src="https://github.com/user-attachments/assets/c20b93a2-9a8d-4d86-8c46-648dd15435aa"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1kiLLvuOmMBLpG9ZN5Su_6F8zjXYbIX_d/view?usp=sharing">Notes</h3>
+<br/>
+
+<h3>How OS creates a PROCESS || Introduction to Process</h3>
+<a hrer="https://youtu.be/ev4PrTlTKzE?si=9Fn7m4_dNmT3-oOX"><img src="https://github.com/user-attachments/assets/ab592bda-20d0-4d72-ab46-b5ed2a825769"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1d7ZR2HZbNuyzC3jrgjskadNuPxaIMr8v/view">Notes</h3>
+<br/>
+
+<h3>What are different Process States in Operating System ?</h3>
+<a hrer="https://youtu.be/BoH-yzA2nj8?si=taEFY-CZrYum9l8g"><img src="https://github.com/user-attachments/assets/5c93dd50-8423-4592-a92a-83d2d2e814d3"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1SujB_Zn9JiSZf2rvfpdTzCndLUZP4O9G/view">Notes</h3>
+<br/>
