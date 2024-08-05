@@ -19,8 +19,16 @@
 <h3>Components of Operating System</h3>
 <a href="https://youtu.be/kHMXP_i6zew?feature=shared"><img src="https://github.com/user-attachments/assets/db6497a7-cfd1-4f28-80fc-495d8fc8b0b8"/></a>
 <br/>
-<h3><a href="https://drive.google.com/file/d/1tezd7cygozyZnP30Tc65fB6lrq2_KwaC/vieww">Notes</a></h3>
+<h3><a href="https://drive.google.com/file/d/1tezd7cygozyZnP30Tc65fB6lrq2_KwaC/view">Notes</a></h3>
 <hr/>
+
+<h3>Context Switching in OS | Medium Term Scheduler | Orphan/Zombie Process</h3>
+<a href="https://youtu.be/arlIBez-W_I?si=Sxm4E9P1SkgCpYV8"><img src="https://github.com/user-attachments/assets/2aa3be9a-6914-4425-ac39-aa027a71ff28"/></a>
+<br/>
+<h3><a href="https://drive.google.com/file/d/1a9rTJf3X_sgpjjyStglzKc9bfapAv4B-/view">Notes</a></h3>
+<hr/>
+
+
 
 
 <h3>System Calls in Operating System [Theory + Example + Hands-on Terminal]</h3>
