@@ -34,7 +34,6 @@
 <h3>Notes</h3>
 <img src="https://github.com/user-attachments/assets/52a2a840-94ee-44e6-aa99-f167539bf3c6"/>
 <img src="https://github.com/user-attachments/assets/ccec4632-8897-4113-824c-46a0715aea8d"/>
-
 <hr/>
 
 <h3>How Operating System Boots up?</h3>
@@ -46,35 +45,40 @@
 
 <h3>What is Booting? "How Computer Boots Up" </h3>
 <a href="https://youtu.be/3KzQJLbB4DU?feature=shared"><img src="https://github.com/user-attachments/assets/6d315a19-c5ce-48da-8774-01d4a6aa9bec"/></a>
-<br/>
+<hr/>
 
 <h3>32 bit vs 64bit register</h3>
 <a href="https://youtu.be/cE6WoaUnpAM?si=gvZ3Yp2CM3bCkLmS"><img src="https://github.com/user-attachments/assets/41c70379-b56e-45e4-8639-60b68ca3c8c5"></a>
 <br/>
 <h3><a href="https://drive.google.com/file/d/1ETaipekcozNlVV66fAi9il0i_7upqmOZ/view">Notes</h3>
-<br/>
+<hr/>
 
 <h3>Comparison between different STORAGES used in Computer</h3>
 <a hrer="https://youtu.be/KFIStTj2DFw?si=e72N2SN0RO3Krhpk"><img src="https://github.com/user-attachments/assets/c20b93a2-9a8d-4d86-8c46-648dd15435aa"/></a>
 <br/>
 <h3><a href="https://drive.google.com/file/d/1kiLLvuOmMBLpG9ZN5Su_6F8zjXYbIX_d/view?usp=sharing">Notes</h3>
-<br/>
+<hr/>
 
 <h3>How OS creates a PROCESS || Introduction to Process</h3>
 <a hrer="https://youtu.be/ev4PrTlTKzE?si=9Fn7m4_dNmT3-oOX"><img src="https://github.com/user-attachments/assets/ab592bda-20d0-4d72-ab46-b5ed2a825769"/></a>
 <br/>
 <h3><a href="https://drive.google.com/file/d/1d7ZR2HZbNuyzC3jrgjskadNuPxaIMr8v/view">Notes</h3>
-<br/>
+<hr/>
 
 <h3>What are different Process States in Operating System ?</h3>
 <a hrer="https://youtu.be/BoH-yzA2nj8?si=taEFY-CZrYum9l8g"><img src="https://github.com/user-attachments/assets/5c93dd50-8423-4592-a92a-83d2d2e814d3"/></a>
 <br/>
 <h3><a href="https://drive.google.com/file/d/1SujB_Zn9JiSZf2rvfpdTzCndLUZP4O9G/view">Notes</h3>
-<br/>
-
+<hr/>
+  
 <h3>Context Switching in OS | Medium Term Scheduler | Orphan/Zombie Process</h3>
 <a href="https://youtu.be/arlIBez-W_I?si=Sxm4E9P1SkgCpYV8"><img src="https://github.com/user-attachments/assets/d8ddf3a1-452a-4a10-92c1-dfae3f612a10"/></a>
 <br/>
 <h3><a href="https://drive.google.com/file/d/1a9rTJf3X_sgpjjyStglzKc9bfapAv4B-/view">Notes</a></h3>
 <hr/>
+
+<h3>What is Convoy Effect | FCFS CPU Scheduling Algorithm</h3>
+<a href="https://youtu.be/lLmqbQnLM4A?si=gpTvi6dI9BcXxP0M"><img src="https://github.com/user-attachments/assets/d1911df8-4220-40ce-992b-1b8f5fe2040b"/></a>
+<br/>
+<h3><a href=""></a></h3>
 
