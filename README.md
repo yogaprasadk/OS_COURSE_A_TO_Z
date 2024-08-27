@@ -82,3 +82,16 @@
 <br/>
 <h3>Notes</h3>
 <img src="https://github.com/user-attachments/assets/db34ea90-cd0c-453d-84cf-836dbb8c0852" width=2000/>
+
+
+<h3> Shortest Job First Algorithm | Priority Scheduling | Round Robin CPU Scheduling</h3>
+<a href="https://youtu.be/AXrF0AmMYlc?si=_-TcMpcTL6kbYD3G"><img src="https://github.com/user-attachments/assets/c04ee53a-603c-46c1-ab76-ba82e1aaab4e  "/></a>
+<h3><a href="https://drive.google.com/file/d/1Sa4GOdS27TOCfLbPffrjXkGsfVXmnmvy/view">Notes</a></h3>
+
+<h3> Multi Level Queue Scheduling || MLFQ || Comparison btw CPU Scheduling Algorithms</h3>
+<a href="https://youtu.be/ly5Ume_Crsk?si=RjD-5ZB6RL2U5lfi"><img src="https://github.com/user-attachments/assets/2cb5b837-bb29-4074-a0ae-7158d4aac3af"/></a>
+<h3><a href="https://drive.google.com/file/d/1oWai-AAMAy_9YZVkzrJ39Ll-7C1uCPoa/view">Notes</a></h3>
+
+<h3> What is Concurrency ? || Multi-Threading in C++ || Operating Systems Placement Series</h3>
+<a href="https://drive.google.com/file/d/1QUUg_3zbl7qUEAPtKbdfYFyQ6fQ8R1KM/view"><img src="https://github.com/user-attachments/assets/a383f413-49dd-44d4-aa7c-057085525d87"></a>
+<h3><a href="https://youtu.be/S7Aym-4-iUc?si=iZfn5aCAQNrjCjvf">Notes</a></h3>
