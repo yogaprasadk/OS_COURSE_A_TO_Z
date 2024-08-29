@@ -109,8 +109,8 @@
 
 <h3> Lecture 19: Reader-Writer Problem and its Solution || OS Placement Series</h3>
 <a href="https://youtu.be/TyJ3as7haIU?si=eTEDWFhowuedupzx"  target="_blank"><img src="https://github.com/user-attachments/assets/bf2dec6e-96d3-4ac0-8c9b-fdd605ac5ceb"/></a>
-<a  href="https://drive.google.com/file/d/1TFAU6c75FleSFEae5yyZsfZiQzxt7jXJ/view?usp=sharing" target="_blank">Notes/</a>
+<a  href="https://drive.google.com/file/d/1TFAU6c75FleSFEae5yyZsfZiQzxt7jXJ/view?usp=sharing" target="_blank">Notes</a>
 
 <h3>The Dining Philosophers Problem & its Solution</h3>
 <a href="https://youtu.be/PIaIJCUZbf4?si=5NveD_8DbZEFIen0" target="_blank"><img src="https://github.com/user-attachments/assets/37e75db3-c4d6-4b04-a753-10197b7a6533"/>
-<a href="https://drive.google.com/file/d/1qmvtUIVIimsXdGIt7NDSqVF1VcFkHlyz/view" target="_blank"></a>
+<a href="https://drive.google.com/file/d/1qmvtUIVIimsXdGIt7NDSqVF1VcFkHlyz/view" target="_blank">Notes</a>
