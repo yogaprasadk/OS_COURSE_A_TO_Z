@@ -1,7 +1,12 @@
+<!-- Introduction Video about the course-->
+<h3>Introduction to Operating Systems Placements Course </h3>
+<a href="https://youtu.be/_TpOHMCODXo?si=B9keSwclJZSxwYM2" target="_blank"><img src="https://github.com/user-attachments/assets/6ce90ebe-8619-4133-9724-7c67487c01c6"/></a>
+
+<!-- Lecture 1-->
 <h3>What is an Operating System ?</h3>
 <a href="https://youtu.be/a1l4MceYHaQ?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/1ca6a911-b766-4030-8a09-57a558e33d22"/></a>
 <br/>
-<h3><a href="https://drive.google.com/file/d/14CJ3RppKwOXG0u6EBRsRM6opM0I9eCeV/view">Notes</a></h3>
+<h3><a href="https://drive.google.com/file/d/14CJ3RppKwOXG0u6EBRsRM6opM0I9eCeV/view" target="_blank">Notes</a></h3>
 <hr/>
 
 <h3>Types Of operating System</h3>
