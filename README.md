@@ -27,12 +27,6 @@
 <h3><a href="https://drive.google.com/file/d/1tezd7cygozyZnP30Tc65fB6lrq2_KwaC/view">Notes</a></h3>
 <hr/>
 
-<h3>Context Switching in OS | Medium Term Scheduler | Orphan/Zombie Process</h3>
-<a href="https://youtu.be/arlIBez-W_I?si=Sxm4E9P1SkgCpYV8" target="_blank"><img src="https://github.com/user-attachments/assets/2aa3be9a-6914-4425-ac39-aa027a71ff28"/></a>
-<br/>
-<h3><a href="https://drive.google.com/file/d/1a9rTJf3X_sgpjjyStglzKc9bfapAv4B-/view">Notes</a></h3>
-<hr/>
-
 <h3>System Calls in Operating System [Theory + Example + Hands-on Terminal]</h3>
 <a href="https://youtu.be/lo8Z61qCDqQ?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/1cd2177a-c858-451e-aa1a-b348674dfaac"/></a>
 <br/>
@@ -109,10 +103,10 @@
 <a href="https://youtu.be/AeDvGSbnoBE?si=bBa-Vn4Brs0f_Bui" target="_blank"><img src="https://github.com/user-attachments/assets/2a169a29-2f69-44c0-8a72-4ca7b82d984e"/></a>
 <h3><a href="https://drive.google.com/file/d/1dxOm-SXhFcXHqcfk-qqjbMqeMBga7Yuh/view?usp=sharing" target="_blank">NOtes</h3>
 
-<h3>Lecture 18: Producer Consumer Problem and its Solution || OS Placement Series</h3>
+<h3>Producer Consumer Problem and its Solution || OS Placement Series</h3>
 <a href="https://youtu.be/lY64CSlnjpg?si=ArhLYA2oIp6TMK7s" target="_blank"><img src="https://github.com/user-attachments/assets/2b8bccc6-321e-4799-9465-02a263f81752"></a>
 
-<h3> Lecture 19: Reader-Writer Problem and its Solution || OS Placement Series</h3>
+<h3> Reader-Writer Problem and its Solution || OS Placement Series</h3>
 <a href="https://youtu.be/TyJ3as7haIU?si=eTEDWFhowuedupzx"  target="_blank"><img src="https://github.com/user-attachments/assets/bf2dec6e-96d3-4ac0-8c9b-fdd605ac5ceb"/></a>
 <a  href="https://drive.google.com/file/d/1TFAU6c75FleSFEae5yyZsfZiQzxt7jXJ/view?usp=sharing" target="_blank">Notes</a>
 
