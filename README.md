@@ -113,3 +113,11 @@
 <h3>The Dining Philosophers Problem & its Solution</h3>
 <a href="https://youtu.be/PIaIJCUZbf4?si=5NveD_8DbZEFIen0" target="_blank"><img src="https://github.com/user-attachments/assets/37e75db3-c4d6-4b04-a753-10197b7a6533"/>
 <a href="https://drive.google.com/file/d/1qmvtUIVIimsXdGIt7NDSqVF1VcFkHlyz/view" target="_blank">Notes</a>
+
+<h3>What is Deadlock</h3>
+<a  href="https://youtu.be/pkTekFvauhU?si=NeYFnlYPzo1DJ4JH"><img src="https://github.com/user-attachments/assets/543c8d16-5df2-4028-954f-39c1e437e5ba"/></a>
+<h3><a href="https://drive.google.com/file/d/1XFlYsjxgSIVyZZ3aolWcPdd6erYYqLI0/view">Notes</a></h3>
+
+<h3>Deadlock Avoidance | Deadlock Detection and Recovery </h3>
+<a href="https://youtu.be/dupdUhx1fns?si=wBZIzFOkHSw2VHdK"><img src="https://github.com/user-attachments/assets/27f21271-0928-4dfc-9eec-bb91bdf60457"/></a>
+<h3><a href="https://drive.google.com/file/d/1o007l1xYrtPAbFIz3PFsx29mxjDWFZEZ/view">Notes</a></h3>
