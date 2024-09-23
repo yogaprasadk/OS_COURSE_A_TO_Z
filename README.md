@@ -2,7 +2,7 @@
 <h3>Introduction to Operating Systems Placements Course </h3>
 <a href="https://youtu.be/_TpOHMCODXo?si=B9keSwclJZSxwYM2" target="_blank"><img src="https://github.com/user-attachments/assets/6ce90ebe-8619-4133-9724-7c67487c01c6"/></a>
 
-<!-- Lecture 1-->
+
 <h3>What is an Operating System ?</h3>
 <a href="https://youtu.be/a1l4MceYHaQ?feature=shared" target="_blank"><img src="https://github.com/user-attachments/assets/1ca6a911-b766-4030-8a09-57a558e33d22"/></a>
 <br/>
@@ -81,43 +81,44 @@
 <br/>
 <h3>Notes</h3>
 <img src="https://github.com/user-attachments/assets/db34ea90-cd0c-453d-84cf-836dbb8c0852" width=2000/>
-
+<hr/>
 
 <h3> Shortest Job First Algorithm | Priority Scheduling | Round Robin CPU Scheduling</h3>
 <a href="https://youtu.be/AXrF0AmMYlc?si=_-TcMpcTL6kbYD3G" target="_blank"><img src="https://github.com/user-attachments/assets/c04ee53a-603c-46c1-ab76-ba82e1aaab4e  "/></a>
 <h3><a href="https://drive.google.com/file/d/1Sa4GOdS27TOCfLbPffrjXkGsfVXmnmvy/view" target="_blank">Notes</a></h3>
-
+<hr/>
 <h3> Multi Level Queue Scheduling || MLFQ || Comparison btw CPU Scheduling Algorithms</h3>
 <a href="https://youtu.be/ly5Ume_Crsk?si=RjD-5ZB6RL2U5lfi" target="_blank"><img src="https://github.com/user-attachments/assets/2cb5b837-bb29-4074-a0ae-7158d4aac3af"/></a>
 <h3><a href="https://drive.google.com/file/d/1oWai-AAMAy_9YZVkzrJ39Ll-7C1uCPoa/view" target="_blank">Notes</a></h3>
-
+<hr/>
 <h3> What is Concurrency ? || Multi-Threading in C++ || Operating Systems Placement Series</h3>
 <a href="https://youtu.be/S7Aym-4-iUc?si=iZfn5aCAQNrjCjvf" target="_blank"><img src="https://github.com/user-attachments/assets/a383f413-49dd-44d4-aa7c-057085525d87"></a>
 <h3><a href="https://drive.google.com/file/d/1QUUg_3zbl7qUEAPtKbdfYFyQ6fQ8R1KM/view" target="_blank">Notes</a></h3>
-
+<hr/>
 <h3> Critical Section Problem || Race condition in OS</h3>
 <a href="https://youtu.be/6NEJ3-nOQek?si=TT0CHF15RLsqZtQD" target="_blank"><img src="https://github.com/user-attachments/assets/af887e7e-c5b9-4b33-8fd2-2e0380bb9fa6"/></a>
 <h3><a href="https://drive.google.com/file/d/1KjwOEMZ797GoeasdHjjgDMcx6SQC0auX/view" target="_blank">Notes</a></h3>
-
+<hr/>
 <h3> Conditional Variables & Semaphores to Synchronise Threads </h3>
 <a href="https://youtu.be/AeDvGSbnoBE?si=bBa-Vn4Brs0f_Bui" target="_blank"><img src="https://github.com/user-attachments/assets/2a169a29-2f69-44c0-8a72-4ca7b82d984e"/></a>
 <h3><a href="https://drive.google.com/file/d/1dxOm-SXhFcXHqcfk-qqjbMqeMBga7Yuh/view?usp=sharing" target="_blank">NOtes</h3>
-
+<hr/>
 <h3>Producer Consumer Problem and its Solution || OS Placement Series</h3>
 <a href="https://youtu.be/lY64CSlnjpg?si=ArhLYA2oIp6TMK7s" target="_blank"><img src="https://github.com/user-attachments/assets/2b8bccc6-321e-4799-9465-02a263f81752"></a>
-
+<hr/>
 <h3> Reader-Writer Problem and its Solution || OS Placement Series</h3>
 <a href="https://youtu.be/TyJ3as7haIU?si=eTEDWFhowuedupzx"  target="_blank"><img src="https://github.com/user-attachments/assets/bf2dec6e-96d3-4ac0-8c9b-fdd605ac5ceb"/></a>
-<a  href="https://drive.google.com/file/d/1TFAU6c75FleSFEae5yyZsfZiQzxt7jXJ/view?usp=sharing" target="_blank">Notes</a>
-
+<h3><a  href="https://drive.google.com/file/d/1TFAU6c75FleSFEae5yyZsfZiQzxt7jXJ/view?usp=sharing" target="_blank">Notes</a></h3>
+<hr/>
 <h3>The Dining Philosophers Problem & its Solution</h3>
 <a href="https://youtu.be/PIaIJCUZbf4?si=5NveD_8DbZEFIen0" target="_blank"><img src="https://github.com/user-attachments/assets/37e75db3-c4d6-4b04-a753-10197b7a6533"/>
-<a href="https://drive.google.com/file/d/1qmvtUIVIimsXdGIt7NDSqVF1VcFkHlyz/view" target="_blank">Notes</a>
-
+<h3><a href="https://drive.google.com/file/d/1qmvtUIVIimsXdGIt7NDSqVF1VcFkHlyz/view" target="_blank">Notes</a></h3>
+<hr/>
 <h3>What is Deadlock</h3>
 <a  href="https://youtu.be/pkTekFvauhU?si=NeYFnlYPzo1DJ4JH"><img src="https://github.com/user-attachments/assets/543c8d16-5df2-4028-954f-39c1e437e5ba"/></a>
 <h3><a href="https://drive.google.com/file/d/1XFlYsjxgSIVyZZ3aolWcPdd6erYYqLI0/view">Notes</a></h3>
-
+<hr/>
 <h3>Deadlock Avoidance | Deadlock Detection and Recovery </h3>
 <a href="https://youtu.be/dupdUhx1fns?si=wBZIzFOkHSw2VHdK"><img src="https://github.com/user-attachments/assets/27f21271-0928-4dfc-9eec-bb91bdf60457"/></a>
 <h3><a href="https://drive.google.com/file/d/1o007l1xYrtPAbFIz3PFsx29mxjDWFZEZ/view">Notes</a></h3>
+<hr/>
