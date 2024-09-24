@@ -134,6 +134,6 @@
 <hr/>
 
 <h3>Memory Management</h3>
-<a href="https://youtu.be/ZNcArN7ODrw?si=3iusLmA3I3zn0zs7"><img src="![image](https://github.com/user-attachments/assets/5f2f7a81-066b-4d4e-be07-7a0c7d02e99b)"/></a>
+<a href="https://youtu.be/ZNcArN7ODrw?si=3iusLmA3I3zn0zs7"><img src="https://github.com/user-attachments/assets/5f2f7a81-066b-4d4e-be07-7a0c7d02e99b"/></a>
 <h3><a href="https://drive.google.com/file/d/1xQMxbd5hL8HEu-QWe8ugoGewhxOiCoVv/view" target="_blank">Notes</a></h3>
 <hr/>
