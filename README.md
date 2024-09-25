@@ -137,3 +137,8 @@
 <a href="https://youtu.be/ZNcArN7ODrw?si=3iusLmA3I3zn0zs7"><img src="https://github.com/user-attachments/assets/5f2f7a81-066b-4d4e-be07-7a0c7d02e99b"/></a>
 <h3><a href="https://drive.google.com/file/d/1xQMxbd5hL8HEu-QWe8ugoGewhxOiCoVv/view" target="_blank">Notes</a></h3>
 <hr/>
+
+<h3>Free Space Management</h3>
+<a href="https://youtu.be/_hrKEA1sEUo?si=IP3a9rZslkKdf8C0"><img src="https://github.com/user-attachments/assets/983101b0-aab2-417a-ad21-205fffab59f8"/></a>
+<h3><a href="https://drive.google.com/file/d/1ooIR6rukaB5PGF1OxrAcW7u6nc9KrXuR/view" target="_blank">Notes</a></h3>
+<hr/>
