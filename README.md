@@ -143,6 +143,10 @@
 <h3><a href="https://drive.google.com/file/d/1ooIR6rukaB5PGF1OxrAcW7u6nc9KrXuR/view" target="_blank">Notes</a></h3>
 <hr/>
 
-<h3>What is paging|| Non-Contiguous Memory Allocation</h3>
+<h3>What is paging || Non-Contiguous Memory Allocation</h3>
 <a href="https://youtu.be/P65WxiAjySs?si=XEnoP-qNfahUF21C"><img src="https://github.com/user-attachments/assets/baf22783-f556-4e11-b1f1-432d37079b3f"/></a>
-<h3><a href="">Notes</a></h3>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWUxQklUSnp1amFISFdyZzlmUHRiWWNLcTA2QXxBQ3Jtc0tud2xRMDNLdnY1TlVLbzBwOVdVdWNqUWpVWmEyWUozYzhjcTl3bUpoTGUxSnNTTldKV2IzSkJfWkI0eWpELW5kNmpkQndpNjFLYkNUYzhHM2c4MzFCSWpGRVdwUFo2UzQ4OEsza0FZUkhxeE0xUGRuSQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1PSzT1Cyoun250v1Uie-78EwgfYeIYniM%2Fview%3Fusp%3Dsharing&v=P65WxiAjySs">Notes</a></h3>
+
+<h3>What is Segmentation || Non-Contiguous Memory Allocation</h3>
+<a href="https://youtu.be/P65WxiAjySs?si=wjLQyPCVv58iMqRe"><img src="https://github.com/user-attachments/assets/57c3debe-c371-4e44-b5ff-a3467340d246"/></a>
+<h3><a href="https://drive.google.com/file/d/1DhwwWUNYi7JmfsptIHF_LDR9R9rNKYq1/view">Notes</a></h3>
