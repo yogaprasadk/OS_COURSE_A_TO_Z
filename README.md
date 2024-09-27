@@ -142,3 +142,7 @@
 <a href="https://youtu.be/_hrKEA1sEUo?si=IP3a9rZslkKdf8C0"><img src="https://github.com/user-attachments/assets/983101b0-aab2-417a-ad21-205fffab59f8"/></a>
 <h3><a href="https://drive.google.com/file/d/1ooIR6rukaB5PGF1OxrAcW7u6nc9KrXuR/view" target="_blank">Notes</a></h3>
 <hr/>
+
+<h3>What is paging|| Non-Contiguous Memory Allocation</h3>
+<a href="https://youtu.be/P65WxiAjySs?si=XEnoP-qNfahUF21C"><img src="https://github.com/user-attachments/assets/baf22783-f556-4e11-b1f1-432d37079b3f"/></a>
+<h3><a href="">Notes</a></h3>
