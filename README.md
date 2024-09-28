@@ -150,3 +150,7 @@
 <h3>What is Segmentation || Non-Contiguous Memory Allocation</h3>
 <a href="https://youtu.be/P65WxiAjySs?si=wjLQyPCVv58iMqRe"><img src="https://github.com/user-attachments/assets/57c3debe-c371-4e44-b5ff-a3467340d246"/></a>
 <h3><a href="https://drive.google.com/file/d/1DhwwWUNYi7JmfsptIHF_LDR9R9rNKYq1/view">Notes</a></h3>
+
+<h3>What is Virtual Memory || Demand || page faults</h3>
+<a href="https://youtu.be/U7wsluje5lU?si=LzVlkKyywgB2P9mV"><img src="https://github.com/user-attachments/assets/da1cfe1c-7dfd-46ec-a699-05b157ac46e3"/></a>
+<h3><a href="https://drive.google.com/file/d/1OJTrwloBfZ_Z-GaSgOWgvExCLUbYbX74/view">Notes</a></h3>
