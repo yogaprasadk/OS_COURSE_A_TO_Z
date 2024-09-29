@@ -154,3 +154,7 @@
 <h3>What is Virtual Memory || Demand || page faults</h3>
 <a href="https://youtu.be/U7wsluje5lU?si=LzVlkKyywgB2P9mV"><img src="https://github.com/user-attachments/assets/da1cfe1c-7dfd-46ec-a699-05b157ac46e3"/></a>
 <h3><a href="https://drive.google.com/file/d/1OJTrwloBfZ_Z-GaSgOWgvExCLUbYbX74/view">Notes</a></h3>
+
+<h3>Page Replacement Algorithm</h3>
+<a href="https://youtu.be/S727dgU0pU8?si=1N6Pj77a9SvU63P-"><img src="https://github.com/user-attachments/assets/69870213-8507-466a-9320-cb42f6eaa3d8"</a>
+<h3><a href="https://drive.google.com/file/d/1_FTH3Hty57Z_NiLSK7kqYHwDLxOmU8pU/view?usp=sharing">Notes</a></h3>
